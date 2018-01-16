@@ -1,0 +1,3 @@
+[submodule "lbr/Adafruit-Eagle-Library"]
+	path = lbr/Adafruit-Eagle-Library
+	url = git@github.com:mysterioustrashninja/Adafruit-Eagle-Library.git
